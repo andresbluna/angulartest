@@ -2,20 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/JPA-con-hibernate-Alura-" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Prog_Ejec" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/TiendaAluraSample" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/api" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app-divina-chile" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ccvida-web" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/chat_ciberpunk" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/control_de_stock" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/divinachile" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/encriptador" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/geolocalizador-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apispotify" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mapeobestsellers" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mysql-workbench" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mysql-workbench-dark-theme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/service-orderdosb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terremotoschilenos_stats" vcs="Git" />
   </component>
 </project>
