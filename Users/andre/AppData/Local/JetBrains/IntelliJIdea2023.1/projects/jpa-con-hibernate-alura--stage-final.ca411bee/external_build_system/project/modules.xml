@@ -1,7 +1,0 @@
-<project>
-  <component name="ExternalProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/tienda/tienda.iml" filepath="$PROJECT_DIR$/tienda/tienda.iml" />
-    </modules>
-  </component>
-</project>

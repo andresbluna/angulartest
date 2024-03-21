@@ -3,9 +3,13 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Prog_Ejec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ablun/ablun" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apirestusers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/apispotify" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mapeobestsellers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/service-orderdosb" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/terremotoschilenos_stats" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/userservice" vcs="Git" />
   </component>
 </project>
