@@ -1,8 +1,7 @@
-#maincss style
+#maincss
+
 {
-
-    header = 100px,
-    footer = 200px,
-
+    color: #e2e2e2;
+    padding: 200px;
 
 }
