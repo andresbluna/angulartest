@@ -1,6 +1,20 @@
-.p
-{
-    color: #9c0909;
-    padding: 2000000px;
-
-}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .footer-content {
+    text-align: center;
+  }
+  
