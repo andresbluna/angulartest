@@ -25,4 +25,7 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span')?.textContent).toContain('projectangular app is running!');
   });
   //sample test angular
+  //making testing
+  //making
+  //making another feature in angular
 });
