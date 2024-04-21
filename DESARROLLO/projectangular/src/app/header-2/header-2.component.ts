@@ -1,10 +1,12 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-header-2',
-  templateUrl: './header-2.component.html',
-  styleUrls: ['./header-2.component.css']
+ selector: 'app-root',
+ templateUrl: './header-2.component.html',
+ styleUrls: ['./header-2.component.css']
 })
-export class Header2Component {
-
+export class AppComponent {
+ onSliderChange(event: any) {
+    console.log('Slider value:', event.value);
+ }
 }
